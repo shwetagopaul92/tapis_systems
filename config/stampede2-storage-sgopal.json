@@ -11,7 +11,7 @@
       "homeDir":"/home/sgopal",
       "auth": {
         "publicKey": "",
-        "privateKey": ""
+        "privateKey": "",
         "username": "sgopal",
         "type": "SSHKEYS"
       }
