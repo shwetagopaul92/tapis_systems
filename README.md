@@ -24,7 +24,9 @@ d) Systems come in two flavors: storage and execution.
 
   1. With Tapis client installed, authenticate first:
      > auth init
+     
      > systems list
+     
      > apps list 
      
  ## Creating a storage system on Stampede2
@@ -33,7 +35,9 @@ d) Systems come in two flavors: storage and execution.
      Follow the sample given here: https://tacc-cloud.readthedocs.io/projects/agave/en/latest/agave/guides/systems/systems- 
      storage.html
   2. Use the Tapis CLI client to add/register the system 
+  
      > In old CLI: systems-addupdate -v -F stampede2-storage-sgopal.json
+     
      > In new CLI: systems create -F stampede2-storage-sgopal.json
      
      Output:
@@ -52,7 +56,9 @@ d) Systems come in two flavors: storage and execution.
      execution.html
   2. There are many extra values that should be added: like define the queue for the system in use. 
   2. Use the Tapis CLI client to add/register the system 
+  
      > In old CLI: systems-addupdate -v -F stampede2-execution-sgopal.json
+     
      > In new CLI: systems create -F stampede2-execution-sgopal.json
      
      Output: 
