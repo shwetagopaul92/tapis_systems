@@ -36,7 +36,9 @@ d) Systems come in two flavors: storage and execution.
      > In old CLI: systems-addupdate -v -F storage-stampede2.json
      > In new CLI: systems 
      
-     Output: <img src="inst/storage.jpg" width="250">
+     Output: <img src="inst/register_storagesystem.jpg" width="250">
+     
+     Output: <img src="inst/register_storagesystem2.jpg" width="250">
      
   ## Creating an execution system on Stampede2
   
