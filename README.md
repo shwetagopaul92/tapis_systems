@@ -36,11 +36,15 @@ d) Systems come in two flavors: storage and execution.
      > In old CLI: systems-addupdate -v -F stampede2-storage-sgopal.json
      > In new CLI: systems create -F stampede2-storage-sgopal.json
      
-     Output: <img src="inst/register_storagesystem.jpg" width="300">
+     Output: 
+     
+     <img src="inst/register_storagesystem.png" width="500">
      
      
      
-     Output: <img src="inst/register_storagesystem2.png" width="300">
+     Output:
+     
+     <img src="inst/register_storagesystem2.jpg" width="500">
      
   ## Creating an execution system on Stampede2
   
@@ -52,7 +56,9 @@ d) Systems come in two flavors: storage and execution.
      > In old CLI: systems-addupdate -v -F stampede2-execution-sgopal.json
      > In new CLI: systems create -F stampede2-execution-sgopal.json
      
-     Output: <img src="inst/system_list.png" width="300">
+     Output: 
+     
+     <img src="inst/system_list.png" width="500">
 
 
 
