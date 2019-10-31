@@ -61,3 +61,19 @@ d) Systems come in two flavors: storage and execution.
 
 
 
+## Creating an APP on the registered system
+
+1. Follow: https://tacc-cloud.readthedocs.io/projects/agave/en/latest/agave/guides/apps/app-wrapper-templates.html
+To install an app like samtools, creater a template file. 
+These should be present on a Stampede system. 
+
+2. Create a app json file: 
+
+2. From local system: start tapis or agave cli
+
+   > apps-addupdate -F app.json
+   > app-list
+   > jobs-template appid > job.json
+   > jobs-submit -F job.json
+   > job-status -v jobid
+   
