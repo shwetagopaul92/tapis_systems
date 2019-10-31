@@ -16,13 +16,9 @@ d) Systems come in two flavors: storage and execution.
 
 - Requirements: 
 
-  1. Install the new Tapis client from: https://github.com/TACC-Cloud/tapis-cli-ng
-  
-  
-  
-- Getting started:
+  1. Install the new Tapis client from: https://github.com/TACC-Cloud/tapis-cli-ng 
 
-  1. With Tapis client installed, authenticate first:
+  2. With Tapis client installed, authenticate first:
      > auth init
      
      > systems list
@@ -43,8 +39,6 @@ d) Systems come in two flavors: storage and execution.
      Output:
      
      <img src="inst/register_storagesystem2.jpg" width="500">
-     
-     Output:
      
      <img src="inst/register_storagesystem.png" width="500">
 
