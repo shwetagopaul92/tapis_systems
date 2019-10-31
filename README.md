@@ -61,7 +61,7 @@ d) Systems come in two flavors: storage and execution.
 
 
 
-## Creating an APP on the registered system
+## Creating an APP and running a job on the registered system
 
 1. Follow: https://tacc-cloud.readthedocs.io/projects/agave/en/latest/agave/guides/apps/app-wrapper-templates.html
 To install an app like samtools, creater a template file. 
