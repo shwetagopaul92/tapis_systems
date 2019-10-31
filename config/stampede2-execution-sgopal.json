@@ -14,8 +14,8 @@
     "protocol": "SSH",
     "proxy": null,
     "auth": {
-      "publicKey": ""
-      "privateKey": ""
+      "publicKey": "",
+      "privateKey": "",
       "username": "sgopal",
       "type": "SSHKEYS"
     }
